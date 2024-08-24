@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "89675991134",
+    "project_id": "graduationproject-f8942",
+    "storage_bucket": "graduationproject-f8942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89675991134:android:2bccda238d037459ba8ccf",
+        "android_client_info": {
+          "package_name": "com.rokia.parko.eng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89675991134-jtg7ibttemlksqiqm09igs2uo5dtjoks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rokia.parko.eng",
+            "certificate_hash": "6c747cee9165592dfd64d2985b1994b2ad34317b"
+          }
+        },
+        {
+          "client_id": "89675991134-j2qpg2hkqv1eoiakc70nrh3javvtst00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu26CK1SJz92C6FFiI5-fMqAnt6WqbhFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89675991134-3iiljgdtevatm8nirefjun3sgpite9fp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89675991134-8vvvrcsg9q0ualf8hq0fcedbq3ic4np8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parko2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
